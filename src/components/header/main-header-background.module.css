@@ -1,0 +1,14 @@
+.header-background{
+    position:absolute;
+    width:100%;
+    heigt:320px;
+    top:0;
+    left:0;
+    z-index:-1;
+}
+
+.header-background svg{
+    display:flex;
+    width:100%;
+    height:auto
+}
